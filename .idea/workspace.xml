@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c50b0d4-5926-4366-b471-acb7798761a9" name="Changes" comment="commit the code">
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Condition_Loops/Lab043_IF_Condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Condition_Loops/Lab043_IF_Condition_Optimized.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Condition_Loops/Lab044_ELSEIF.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Condition_Loops/Lab044_Nested_IF_ELSEIF.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Condition_Loops/Lab045_If_Else_Condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Condition_Loops/Lab046_if_else_elif.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Condition_Loops/Lab047_Grade_Calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Task004.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,6 +103,7 @@
     "Python.Task001.executor": "Run",
     "Python.Task002.executor": "Run",
     "Python.Task003.executor": "Run",
+    "Python.Task004.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -118,7 +113,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "preferences.general",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -141,7 +136,7 @@
       <workItem from="1760257600274" duration="8000" />
       <workItem from="1760503221609" duration="1352000" />
       <workItem from="1760534577677" duration="2841000" />
-      <workItem from="1760701630604" duration="1150000" />
+      <workItem from="1760701630604" duration="7231000" />
     </task>
     <task id="LOCAL-00001" summary="commit the code">
       <option name="closed" value="true" />
@@ -159,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760537607443</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit the code">
+      <option name="closed" value="true" />
+      <created>1760702854931</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760702854931</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +193,7 @@
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab035_Operators_P4.coverage" NAME="Lab035_Operators_P4 Coverage Results" MODIFIED="1760536526024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_04_Operators" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab013_Multiple_Prints.coverage" NAME="Lab013_Multiple_Prints Coverage Results" MODIFIED="1760256289881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab007_Variables_Names.coverage" NAME="Lab007_Variables_Names Coverage Results" MODIFIED="1760256418255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables" />
+    <SUITE FILE_PATH="coverage/PyATB6xLearning$Task004.coverage" NAME="Task004 Coverage Results" MODIFIED="1760708908541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Task" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab023_Strings.coverage" NAME="Lab023_Strings Coverage Results" MODIFIED="1760534597334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_03_Literals_Variables" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab040_Ternary_Operator.coverage" NAME="Lab040_Ternary_Operator Coverage Results" MODIFIED="1760536905887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_04_Operators" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab046_if_else_elif.coverage" NAME="Lab046_if_else_elif Coverage Results" MODIFIED="1760702222758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_05_Condition_Loops" />
