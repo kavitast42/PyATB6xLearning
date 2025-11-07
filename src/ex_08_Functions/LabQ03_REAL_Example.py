@@ -10,4 +10,4 @@ def validate_status_code(response_code):
 validate_status_code(404)
 validate_status_code(200)
 validate_status_code(response_code=200)
-validate_status_code(input("Enter your status code"))
+validate_status_code(int(input("Enter your status code")))
