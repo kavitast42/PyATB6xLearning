@@ -5,44 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c50b0d4-5926-4366-b471-acb7798761a9" name="Changes" comment="commit the code">
-      <change afterPath="$PROJECT_DIR$/src/Task/Task009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/Task010_Q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/Task_TriaglePrinting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab068_User_Input_Pass_Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab069_Functions_Types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab070_Functions_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab071_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab072_Infinite_Args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab073_Real_Args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab075_Local_Variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab077_Local_Var.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab078_Inner_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Functions_Scopes/python_dir/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decortors/Lab079_Decortors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decortors/Lab080_Decor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decortors/Lab081_WithOutDecor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decortors/Lab082_Real_Decor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decortors/Lab083_Decor_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decortors/Lab084_IQ_Leap_Year.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decortors/LabTime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11_TypeConversion/Lab087_Type_Conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11_TypeConversion/Lab088_IQ_Triangle_Classifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab090_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab091_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab092_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab093_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab094_User_Input_ODD_Even.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab095_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13_List/Lab096_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13_List/Lab097_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13_List/Lab098_POP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab099_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab100_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab101_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab102_SET.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab103_SET_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab104_SET_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab105_Extra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab105_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabMap01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabMap02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabMap03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab106_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab107_Dict_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab108_Dict_Mul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab109_Dict_Mul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab110_Dict_Concepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab111_Dict_Frequency_Char_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab112_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab113_Dict_IQ_Max_Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab114_IQ_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab115_Dict_Dup_Keys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab115_Dict_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab116_IQ_count_vowel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/01_Class_Object/Lab117_OOps_Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/01_Class_Object/Lab118_Class_Dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/01_Class_Object/Lab119_Class_Dog_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/02_Constructor/Lab119_Class_Dog_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/02_Constructor/Lab119_Class_Dog_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/02_Constructor/Lab120_Class_Dog_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/02_Constructor/Lab121_User_Input_Person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/02_Constructor/Lab122_Calc_Non_PC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/02_Constructor/Lab123_Calc_PC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/03_Instance_Variable/Lab124_OOps.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_08_Functions/LabQ03_REAL_Example.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08_Functions/LabQ03_REAL_Example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task/Task_Grade_Calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/Task_Grade_Calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task/Task_TriaglePrinting.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/Task_TriaglePrinting.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,8 +184,38 @@
     "Python.Lab100_Tuple.executor": "Run",
     "Python.Lab101_Tuple.executor": "Run",
     "Python.Lab102_SET.executor": "Run",
+    "Python.Lab103_SET_P2.executor": "Run",
+    "Python.Lab104_SET_P3.executor": "Run",
+    "Python.Lab105_Extra.executor": "Run",
+    "Python.Lab105_IQ.executor": "Run",
+    "Python.Lab106_Dict.executor": "Run",
+    "Python.Lab107_Dict_P2.executor": "Run",
+    "Python.Lab108_Dict_Mul.executor": "Run",
+    "Python.Lab109_Dict_Mul.executor": "Run",
+    "Python.Lab110_Dict_Concepts.executor": "Run",
+    "Python.Lab111_Dict_Frequency_Char_String.executor": "Run",
+    "Python.Lab112_Dict.executor": "Run",
+    "Python.Lab113_Dict_IQ_Max_Values.executor": "Run",
+    "Python.Lab114_IQ_Dict.executor": "Run",
+    "Python.Lab115_Dict_Dup_Keys.executor": "Run",
+    "Python.Lab115_Dict_IQ.executor": "Run",
+    "Python.Lab116_IQ_count_vowel.executor": "Run",
+    "Python.Lab117_OOps_Class.executor": "Run",
+    "Python.Lab118_Class_Dog.executor": "Run",
+    "Python.Lab119_Class_Dog_P2.executor": "Run",
+    "Python.Lab119_Class_Dog_P3.executor": "Run",
+    "Python.Lab120_Class_Dog_P3.executor": "Run",
+    "Python.Lab121_User_Input_Person.executor": "Run",
+    "Python.Lab122_Calc_Non_PC.executor": "Run",
+    "Python.Lab123_Calc_PC.executor": "Run",
+    "Python.LabFilter01.executor": "Run",
+    "Python.LabFilter02.executor": "Run",
+    "Python.LabFilter03.executor": "Run",
     "Python.LabForReverse.executor": "Run",
     "Python.LabForUsedRealLife.executor": "Run",
+    "Python.LabMap01.executor": "Run",
+    "Python.LabMap02.executor": "Run",
+    "Python.LabMap03.executor": "Run",
     "Python.LabMatch002.executor": "Run",
     "Python.LabQ01.executor": "Run",
     "Python.LabQ02.executor": "Run",
@@ -226,7 +253,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.26830.99" />
         <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
       </set>
     </attachedChunks>
@@ -245,7 +271,8 @@
       <workItem from="1760701630604" duration="7311000" />
       <workItem from="1760934157698" duration="1540000" />
       <workItem from="1761881713256" duration="4018000" />
-      <workItem from="1762488320384" duration="2507000" />
+      <workItem from="1762488320384" duration="2735000" />
+      <workItem from="1763179456479" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="commit the code">
       <option name="closed" value="true" />
@@ -295,7 +322,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761883748085</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit the code">
+      <option name="closed" value="true" />
+      <created>1762490856693</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1762490856693</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
