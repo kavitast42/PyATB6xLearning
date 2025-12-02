@@ -5,36 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c50b0d4-5926-4366-b471-acb7798761a9" name="Changes" comment="commit the code">
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/04_Encapsulation/Lab127_Encap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/04_Encapsulation/Lab128_Ecaps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/04_Encapsulation/Lab129_Ecaps_ENV.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/04_Encapsulation/Lab129_Ecaps_Ft.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/04_Encapsulation/Lab130_Ecap_Example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/04_Encapsulation/Lab131_Ecap_Example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/04_Encapsulation/Lab132_Ecap_Personal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/04_Encapsulation/LabPublic_Private_Protected.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/01_SI/Lab133_Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/02_MI/Lab134_MI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/02_MI/Lab135_MI_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/03_ML/Lab136.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/04_HI/Lab137_HI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/05_HB_I/Lab138_HybriD_I.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/05_HB_I/Lab139_REAL_AUTOMATION.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overloading/Lab142_MO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overloading/Lab143_All_MO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overloading/Lab143_MO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overloading/Lab144_MO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overriding/Lab140_MO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overriding/Lab141_MO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/07_Abstraction/Lab145_All_AB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/07_Abstraction/Lab146_ABC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/07_Abstraction/Lab147_REAL_AUTOMATION.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/07_Abstraction/Lab148_REAL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/07_Abstraction/Lab149_ABC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static/Lab150_Static.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static/Lab151_Static_Method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static/Lab152_Static_All.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static/Lab153_Static_Non_Static.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab155_Exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab156_ZeroDivError.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab157_TypeError.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab158_ValueError.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab159_IndexError.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab160_SyntaxError.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab161_Program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab161_Program_Fix_Try_Except.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab162_Program_Fix_Try_Except_MULTIPLE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab163_Program_Fix_Try_Except_MULTIPLE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab164_Program_Fix_Try_Except_Finally.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab165_REAL_API_TESTING.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab166_Program_Try_Except_Else_Finally.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab167_OWN_EXP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab168_Custom_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab169_REAL_Selenium_Ex_TESTING.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab170_File_NOT_FOUND.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab171_ExceptionGrouping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20_Modules_OS/Lab172_OS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21_Package_vs_DIR/Lab173_Package.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21_Package_vs_DIR/mymodule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21_Package_vs_DIR/package/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21_Package_vs_DIR/package/util_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22_Collections/Lab174_Collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22_Collections/Lab175_Main_METHOD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22_Collections/Lab176_Main_Usage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22_Collections/Lab177_OS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_23_File_IO/Kavita" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_23_File_IO/Lab178_Open.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_23_File_IO/Lab179_Open_R.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_23_File_IO/Lab180_append_Open.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_23_File_IO/Lab181_CSV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_23_File_IO/Lab182_Pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_23_File_IO/TD.csv.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -235,6 +240,36 @@
     "Python.Lab151_Static_Method.executor": "Run",
     "Python.Lab152_Static_All.executor": "Run",
     "Python.Lab153_Static_Non_Static.executor": "Run",
+    "Python.Lab154_REAL_EXAMPLE.executor": "Run",
+    "Python.Lab155_Exceptions.executor": "Run",
+    "Python.Lab156_ZeroDivError.executor": "Run",
+    "Python.Lab157_TypeError.executor": "Run",
+    "Python.Lab158_ValueError.executor": "Run",
+    "Python.Lab159_IndexError.executor": "Run",
+    "Python.Lab160_SyntaxError.executor": "Run",
+    "Python.Lab161_Program.executor": "Run",
+    "Python.Lab161_Program_Fix_Try_Except.executor": "Run",
+    "Python.Lab162_Program_Fix_Try_Except_MULTIPLE.executor": "Run",
+    "Python.Lab163_Program_Fix_Try_Except_MULTIPLE.executor": "Run",
+    "Python.Lab164_Program_Fix_Try_Except_Finally.executor": "Run",
+    "Python.Lab165_REAL_API_TESTING.executor": "Run",
+    "Python.Lab166_Program_Try_Except_Else_Finally.executor": "Run",
+    "Python.Lab167_OWN_EXP.executor": "Run",
+    "Python.Lab168_Custom_Exception.executor": "Run",
+    "Python.Lab169_REAL_Selenium_Ex_TESTING.executor": "Run",
+    "Python.Lab170_File_NOT_FOUND.executor": "Run",
+    "Python.Lab171_ExceptionGrouping.executor": "Run",
+    "Python.Lab172_OS.executor": "Run",
+    "Python.Lab173_Package.executor": "Run",
+    "Python.Lab174_Collections.executor": "Run",
+    "Python.Lab175_Main_METHOD.executor": "Run",
+    "Python.Lab176_Main_Usage.executor": "Run",
+    "Python.Lab177_OS.executor": "Run",
+    "Python.Lab178_Open.executor": "Run",
+    "Python.Lab179_Open_R.executor": "Run",
+    "Python.Lab180_append_Open.executor": "Run",
+    "Python.Lab181_CSV.executor": "Run",
+    "Python.Lab182_Pandas.executor": "Run",
     "Python.LabFilter01.executor": "Run",
     "Python.LabFilter02.executor": "Run",
     "Python.LabFilter03.executor": "Run",
@@ -252,6 +287,7 @@
     "Python.LabTime.executor": "Run",
     "Python.LabWhile.executor": "Run",
     "Python.LabWhile_Vs_For.executor": "Run",
+    "Python.TD.csv.executor": "Run",
     "Python.Task001.executor": "Run",
     "Python.Task002.executor": "Run",
     "Python.Task003.executor": "Run",
@@ -265,6 +301,8 @@
     "Python.Task_FizzBuzz.executor": "Run",
     "Python.Task_Grade_Calc.executor": "Run",
     "Python.Task_TriaglePrinting.executor": "Run",
+    "Python.env.executor": "Run",
+    "Python.mymodule.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -276,6 +314,11 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.general",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -366,7 +409,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763181986601</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit the code">
+      <option name="closed" value="true" />
+      <created>1763791296926</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1763791296927</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
